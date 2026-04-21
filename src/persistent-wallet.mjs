@@ -84,7 +84,6 @@ async function main() {
     if (balance === 0) {
         console.log("No SOL found. Airdrop from faucet:");
         console.log("https://faucet.solana.com/");
-        console.log(wallet.address);
     }
 }
 
